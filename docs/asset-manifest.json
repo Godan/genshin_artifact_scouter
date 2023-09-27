@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f96f1df.css",
-    "main.js": "/static/js/main.79a4de7d.js",
-    "static/js/787.42185fa9.chunk.js": "/static/js/787.42185fa9.chunk.js",
-    "index.html": "/index.html",
-    "main.3f96f1df.css.map": "/static/css/main.3f96f1df.css.map",
-    "main.79a4de7d.js.map": "/static/js/main.79a4de7d.js.map",
-    "787.42185fa9.chunk.js.map": "/static/js/787.42185fa9.chunk.js.map"
+    "main.css": "/genshin_artifact_scouter/static/css/main.3f96f1df.css",
+    "main.js": "/genshin_artifact_scouter/static/js/main.295c8838.js",
+    "static/js/787.42185fa9.chunk.js": "/genshin_artifact_scouter/static/js/787.42185fa9.chunk.js",
+    "index.html": "/genshin_artifact_scouter/index.html",
+    "main.3f96f1df.css.map": "/genshin_artifact_scouter/static/css/main.3f96f1df.css.map",
+    "main.295c8838.js.map": "/genshin_artifact_scouter/static/js/main.295c8838.js.map",
+    "787.42185fa9.chunk.js.map": "/genshin_artifact_scouter/static/js/787.42185fa9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f96f1df.css",
-    "static/js/main.79a4de7d.js"
+    "static/js/main.295c8838.js"
   ]
 }
